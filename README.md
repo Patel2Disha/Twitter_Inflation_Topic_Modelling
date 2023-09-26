@@ -1,5 +1,11 @@
 # Twitter_Inflation_Topic_Modelling
 
+pyLDAvis
+
+<img width="1264" alt="Screenshot 2023-09-25 at 9 06 07 PM" src="https://github.com/Patel2Disha/Twitter_Inflation_Topic_Modelling/assets/144750198/4c824b31-7ca2-4942-bd09-29e48e956dcb">
+
+
+
 Summary:
   For this personal project, I aimed to analyze people's views regarding inflation in different areas such as food prices, government policies, and fuel costs. Inflation has remained a hot topic since the onset of the COVID-19 pandemic. To perform this analysis, I utilized Databricks and Apache Spark, along with additional libraries such as Gensim and PyLDAvis for topic modeling.
 
