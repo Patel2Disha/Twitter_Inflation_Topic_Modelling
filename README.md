@@ -1,5 +1,4 @@
 # Twitter_Inflation_Topic_Modelling
-Using Databricks and Spark, I analyzed public opinions on post-COVID-19 inflation tweets, focusing on food prices, government policies, fuel costs, etc. Leveraging Spark and Gensim LDA models, the project aims to explore how topic modeling can help businesses and governments understand and address public concerns.
 
 Summary:
   For this personal project, I aimed to analyze people's views regarding inflation in different areas such as food prices, government policies, and fuel costs. Inflation has remained a hot topic since the onset of the COVID-19 pandemic. To perform this analysis, I utilized Databricks and Apache Spark, along with additional libraries such as Gensim and PyLDAvis for topic modeling.
